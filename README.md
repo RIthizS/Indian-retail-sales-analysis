@@ -18,6 +18,11 @@ The main objectives of this analysis are to:
 - Identify important business insights
 - Create an interactive Power BI dashboard
 
+## 📂 Data Source
+
+The dataset used in this project was obtained from **Kaggle** and used for educational and portfolio analysis purposes.
+
+
 ## 🛠️ Tools Used
 
 - **Excel** – Data cleaning and initial analysis
@@ -91,3 +96,10 @@ This project focuses on questions such as:
 This project demonstrates how raw retail data can be transformed into meaningful business insights using **Excel, SQL, and Power BI**.
 
 The analysis helps identify sales trends, high-performing areas, and opportunities for improving business performance.
+
+
+## 👤 Author
+
+**RlthizS**
+
+Data Analytics Portfolio Project
